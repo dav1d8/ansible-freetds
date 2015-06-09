@@ -1,0 +1,6 @@
+freetds_packages:
+  - freetds-common
+  - freetds-bin
+  - unixodbc
+
+freetds_confdir: /etc/freetds
