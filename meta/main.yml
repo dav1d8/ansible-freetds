@@ -2,4 +2,6 @@ galaxy_info:
   author: David Baranyai
   description: An Ansible role for installing freetds.
   license: Apache
-  categories: freetds
+  galaxy_tags: [freetds]
+  platforms:
+   - name: Ubuntu
